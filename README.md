@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GriW-hub
 - 👨‍💻 I’m interested in Biophysics
 - 🌱 I’m currently learning Image Processing in MATLAB & Simulations in COMSOL
-- 📫 How to reach me @ linkedin.com/in/griw-lnkdn/
+- 📫 Reach me @ linkedin.com/in/griw-lnkdn/
 - 😄 Pronouns: He/Him
 - 🎤 Fun fact: Totally tin-eared
 
